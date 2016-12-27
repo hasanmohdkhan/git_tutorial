@@ -1,0 +1,5 @@
+command for GIt
+git init        = create a git repository
+ ls -a          = list all files
+git status   = for git status
+git add   <file name>    = for adding commit
