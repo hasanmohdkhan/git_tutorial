@@ -30,4 +30,6 @@ STEP 2 - for saving changes
 ===================== GitHub ===================================
 git remote add origin https://github.com/hasanmohdkhan/git_tutorial.git
 = for adding your repo to github repo as remote
-git remote = o/p remote
+git remote        = o/p remote
+git remote -v    = v : verbose
+git push origin master  =pushing changes to github
