@@ -9,6 +9,8 @@ git reset --hard    = For hard rest of changes but carefull no restore possible
 git branch            = Branch to check whether project have branch or not 
 git branch <Branch Name > = create  new branch
 git checkout <Branch Name > = switch to <Branch Name >
+git merge master [< other branch name>] <branch name> = merge cmd
+ git log --graph --oneline = Show graph tree of project commit and changes
 git commit    = Textediort will open and follow cmd are 
 
 STEP 1 - To get back to Normal mode, you can always press esc.
