@@ -33,4 +33,4 @@ git remote add origin https://github.com/hasanmohdkhan/git_tutorial.git
 git remote        = o/p remote
 git remote -v    = v : verbose
 git push origin master  =pushing changes to github
-git pull origin master =to get github changes or anyother user changes  
+git pull origin master =to get github changes or anyother user changes.  
