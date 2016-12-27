@@ -3,7 +3,7 @@ git init        = create a git repository
  ls -a          = list all files
 git status   = for git status
 git add   <file name>    = for adding commit
-
+git diff          = no file name give recent changes in staging area
 git commit    = Textediort will open and follow cmd are 
 
 STEP 1 - To get back to Normal mode, you can always press esc.
