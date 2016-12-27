@@ -3,3 +3,18 @@ git init        = create a git repository
  ls -a          = list all files
 git status   = for git status
 git add   <file name>    = for adding commit
+
+git commit    = editoer will open and follow cmd are 
+
+STEP 1 - To get back to Normal mode, you can always press esc.
+
+Once you are at Normal mode 
+Press : to begin your command (you'll see it appear in the bottom left). 
+The following commands are related to quiting vim:
+
+STEP 2 - for saving changes
+
+:q - quit if no changes were made
+:q! - quit and destroy any changes made
+:wq - write changes (save) and quit
+:x - similar to :wq, only write the file if changes were made, then quit
